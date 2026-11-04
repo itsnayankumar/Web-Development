@@ -1,0 +1,14 @@
+body{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  padding-top: 100px;
+  background: #111;
+  color: #0F0;
+}
+#time{
+  font-size: 80px;
+  margin: 20px 0;
+}
+#date{
+  font-size: 24px;
+}
