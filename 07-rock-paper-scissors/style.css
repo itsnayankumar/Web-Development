@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 60px;
+}
+
+button {
+  font-size: 20px;
+  padding: 12px 20px;
+  margin: 6px;
+  cursor: pointer;
+}
+
+#choices {
+  font-size: 24px;
+  min-height: 30px;
+}
+
+#result {
+  font-size: 32px;
+  min-height: 40px;
+}
