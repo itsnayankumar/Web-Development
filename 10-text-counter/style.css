@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+textarea {
+  font-size: 18px;
+  padding: 12px;
+  max-width: 90%;
+}
+
+#stats p {
+  font-size: 22px;
+  margin: 8px;
+}
+
+button {
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-top: 15px;
+  cursor: pointer;
+}
